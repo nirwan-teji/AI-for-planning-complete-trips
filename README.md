@@ -1,5 +1,4 @@
 # AI Travel Planner Agent
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/nirwan-teji/AI-for-planning-complete-trips)
 
 This repository contains an advanced AI-powered travel agent designed to help users plan complete trips worldwide. Using an agentic workflow built with LangGraph, the application leverages a suite of specialized tools to provide comprehensive and detailed travel plans, including itineraries, cost breakdowns, and real-time information.
 
